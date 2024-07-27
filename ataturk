@@ -1,7 +1,7 @@
 {
-  "name": "Vamp_iphone",
+  "name": "Ataturk",
   "version": "1.1",
-  "description": "Vamp Anime Girl",
+  "description": "Saint Ataturk",
   "authors": [
     {
       "name": "pbcg",
@@ -153,7 +153,7 @@
   },
   "background": {
     "blur": 0.1,
-    "url": "https://github.com/melonwer/themes/blob/1bad8fed07f5c6e8af52302ead6053fd729cec90/vampgirlip.PNG?raw=true",
+    "url": "https://github.com/nazsheed/saint-ataturk/blob/01606ad0c4e283097910e6d38a86b069a2ad92ae/main-qimg-a3ced4cba2646f147e23c55a08092cc8-lq.jfif?raw=true",
     "alpha": 1.0
   }
 }
